@@ -1,0 +1,94 @@
+*{margin: 0;padding: 0;}
+body{
+	background: url(../img/indexbg.jpg) no-repeat center;
+	/*background-size: cover;*/
+	min-width: 1000px;
+	position: relative;
+}
+body {
+    font-size: 15px;
+    line-height: 1.5em;
+    color: #FFFFFF;
+    background-color: #fff;
+    position: relative;
+    background-attachment: fixed;
+}
+li{margin: 0;padding: 0;}
+a{text-decoration: none;color: #FFFFFF;}
+
+
+/*主页内容开始*/
+.container{
+	width: 1270px;
+	padding-top: 16%;
+	margin: 0 auto;
+}
+.main .jianjie{
+	font-size: 18px;
+	font-family: "微软雅黑";
+	color: #ffba1e;
+	font-weight: 700;
+	text-indent: 2em;
+	margin: 0;
+	line-height: 1.5em;
+	text-align: justify;
+	margin-bottom: 50px;
+}
+.main .box-l{
+	width: 50%;
+}
+.main .box-l .gxgg{
+	background: rgba(0,0,0,0.6);
+	border-radius: 8px;
+	padding: 20px;
+	margin-bottom: 10px;
+	overflow-x: hidden;
+    overflow-y: scroll;
+}
+.main .box-l .gxgg::-webkit-scrollbar {
+        display: none;
+    }
+.main .box-l .gxgg div{
+	margin-bottom: 15px;
+}
+.main .box-l .gxgg ul li{
+	margin-left: 20px;
+	margin-bottom: 5px;
+	font-size: 14px;
+	font-family:"song";
+}
+.main .box-l .footer{
+	background: rgba(0,0,0,0.6);
+	border-radius: 8px;
+	padding: 10px 20px;
+	margin: 0 auto 10px;
+	text-align: center;
+}
+.main .box-l .footer div{
+	display: inline-block;
+	cursor: pointer;
+	padding-right: 25px;
+	position: relative;
+}
+.qrcode img{display: none;position: absolute;margin-top: -80px;right: 170px;}
+.main .box-l .footer div:hover .qrcode img{display: block;}
+.main .box-l .footer div a{cursor: pointer;display: inline-block;}
+.main .box-r{
+	margin-left: 50px;
+	margin-top: 130px;
+	height: 100%;
+	position: relative;
+}
+.main .box-r div{
+	position: absolute;
+	/*right:-100px;
+	margin-top: 210px;*/
+}
+.main .box-r div img{
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+/*开始按钮*/
+.main div.start{position: relative;margin: auto;right: auto;text-align: center;}
+.main div.start img{margin-bottom: 42px;}

@@ -1,0 +1,12 @@
+﻿管理员 地址 Aakssdq6o3aL1PysQ23DEXrEeutwEeJeKQ
+管理员 hash反向 0x0fc6c414c4bc148ef8f6fb8f4d5524feba293ad0
+管理员 wif L5kAoVhKtsGNntC9tenNLbAdY9zW5mRMQshHhiQDGSom3bv9N9F2
+
+fish hash反向 0x94a24ee381bc386daa91984c7dd606f6fdd8f19e
+server 地址 ASw5dpPUdtzCaRznCXNydZJBRDtJCPD8B7
+管理员收款 地址 ATXKGbfP7pvonXkoCzE1MySJuLZrUokT9E
+管理员收款 wif KwJNjj6NZSCQf76pfugsVeP9BPsBgmottpsZ8igGKX3whcSPdc7i
+
+假的
+ng hash反向 0x4c403ebdc48d4d7abf7bf8141ec03368eb4eddac
+auction hash反向 0x099e6e709f7445933fb68068a586d38690fd39f9

@@ -1,0 +1,73 @@
+.float-l{float: left;}
+.float-r{float: right;}
+/*=================================导航栏=================================*/
+header{
+	background: rgba(0,0,0,0.3);
+	height: 80px;
+	position: fixed;
+	top: 0;left: 0;right: 0;z-index: 2;min-width: 1200px;
+}
+header .logo{
+	margin:0 30px;
+	padding: 10px 20px;
+	display: inline-block;
+	float: left;
+	cursor: pointer;
+}
+header .logo a{
+	display: inline-block;
+}
+
+header .nav-top{
+	float: left;
+
+}
+header .nav-top ul{
+	margin: 0;
+	height: 80px;
+	width: 100%;
+	list-style: none;
+	padding: 0;
+}
+header .nav-top ul li{
+	height: 80px;
+	line-height: 80px;
+	font-size: 22px;
+	text-align: center;
+	width: 128px;
+	display: inline-block;
+	float: left;
+}
+header .nav-top ul a{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+header .nav-top ul li.s:hover{
+	cursor: pointer;
+	background: rgba(0,0,0,0.5);
+}
+header .nav-top ul li span{
+	color: #FFFFFF;
+	padding-bottom: 5px;
+}
+header .nav-top ul .active{
+	background: rgba(0,0,0,0.5);
+}
+header .nav-top ul .active span{
+	border-bottom: 3px solid #ffba1e;	
+}
+
+.switcharea{float: left;margin-top: 30px;margin-left: 10px;cursor: pointer;font-family:"黑体";color: #fff;}
+.switcharea img{vertical-align: middle;text-align: center;}
+.switchareaclick{font-size: 22px;text-shadow: 0 0 3px #f60;}
+.switchareaclick img:last-child{margin-left: 8px;}
+.switcharealist{display: none;background-color: rgba(0,0,0,0.5);position: absolute;margin-left: -15px;margin-top: 5px;font-size: 22px;}
+.switcharealist a{padding: 15px 15px 15px 0;display: inline-block;}
+.switcharealist a:first-child{padding-left: 15px;}
+.switcharealist img{margin-top: 5px;}
+
+div.pc_icon{top: 8px;right: auto;left: 300px;}
+.loging{float: left;min-width: 100px;height: 100%; margin-right: 10px; font-size: 22px;line-height: 80px;color: #fff;cursor: pointer;}
+.show{display: block !important;}
+.hied{display: none !important;}

@@ -1,0 +1,83 @@
+http://121.40.80.198:14900/regsiter
+请求方式：
+post
+参数：
+username password
+返回值：
+{
+	"result":"0",
+	"code":"1234"
+}
+result:
+-1 用户已存在
+-3 字符长度错误
+0 成功
+
+http://121.40.80.198:14900/load
+请求方式：
+post
+参数：
+username password
+返回值：
+{
+	"result":"0",
+	"data":"aaa",
+	"code":"1234"
+}
+result:
+-1 密码错误
+-2 内部错误
+-3 字符长度错误
+-4 用户不存在
+-5 用户锁定中
+0 成功
+
+http://121.40.80.198:14900/save
+请求方式：
+post
+参数：
+username password data
+返回值：
+{
+	"result":"0"
+}
+result:
+-1 密码错误
+-2 内部错误
+-3 字符长度错误
+-4 用户不存在
+-5 作弊
+0 成功
+
+
+http://121.40.80.198:14900/code
+请求方式：
+post
+参数：
+username
+返回值：
+{
+	"result":"0",
+	"code":"1234"
+}
+result:
+-2 内部错误
+-4 用户不存在
+0 成功
+
+
+http://121.40.80.198:14900/lock
+请求方式：
+post
+参数：
+username password
+返回值：
+{
+	"result":"0"
+}
+result:
+-1 密码错误
+-2 内部错误
+-3 字符长度错误
+-4 用户不存在
+0 成功

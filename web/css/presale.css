@@ -1,0 +1,132 @@
+body{min-width: 1400px;}
+ul{list-style: none;}
+
+.container{padding-top: 110px;width: 1400px;}
+.presale_title p{font-size: 21px;color: #fdfa8f;line-height: 2em;}
+.presale_time{text-align: center;}
+.presale_time>div{width: 245px;height: 50px;line-height: 50px;color: #fff;text-shadow: 0 0 5px #f00;font-size: 18px; background: url(../img/presaletimebj.png) no-repeat center; margin-top: 5px;}
+
+.slidebox{width: 280px;height: 320px;}
+.presalegame{clear: both;}
+.presalegame span{font-size: 14px;position: absolute;line-height: 1;padding: 5px;background-color: rgba(0,0,0,0.8); border: 1px solid #fff;border-radius: 3px;z-index: 9;display: none;}
+.presalegame li{width: 400px;height: 300px;color: #fff;float: left;margin:10px 30px;}
+.presalegame .slidebox>div{float: left;position: relative;}
+.game_name{width: 100%; height: 32px;font-size: 18px;line-height: 32px;background-color: rgba(0,0,0,0.8);text-align: center;margin-bottom: 2px;}
+.game_prop{width: 80px;height: 159px;background-color: rgba(255,255,255,255.8);text-align: center;position: relative;cursor: pointer;}
+.game_prop img{margin-top: -2px;}
+.game_prop span{left: -20px;top: 10px;width: 14px;}
+.game_prop:hover span{display: inline-block;}
+.game_attr{width:198px;height: 159px; font-size: 18px;background-color: rgba(255,255,255,255.8);margin-left: 2px !important;}
+.game_attr>div{float: left;}
+.game_attr img{vertical-align: middle;}
+.game_attr_role{width: 196px; height:150px;line-height: 150px;text-align: center;cursor: pointer;}
+
+.game_attr_role:hover span{display: inline-block;}
+.game_attr_role span{left: 0;bottom: 0;}
+.game_attr_value{width: 320px;text-align: center;}
+.game_attr_value>div{line-height: 25px;}
+.game_attr_value .attribute{height: 50px;line-height: 50px;cursor: pointer;}
+.attribute span{right: -55px;margin-top: 15px;}
+.attribute:hover span{display: inline-block;}
+.game_attr_value img{margin-right: -52px; }
+.surplus{height: 25px;line-height: 0px;font-size: 15px;color: #000000;position: absolute;margin-left: 66px;font-family:Microsoft YaHei;}
+
+.attributevalue{cursor: pointer;}
+.attributevalue span{top: 55px;right: -85px;padding: 12px 8px;}
+.attributevalue span>div{line-height: 1.2em;}
+.attributevalue:hover span{display: block;}
+.game_skill{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill img{vertical-align: middle;margin: auto 5%;}
+.game_skill p{width: 90px;line-height: 72px;font-size: 18px;color: #0E9CF1;float: right;font-weight:900;text-indent: -7em;}
+.game_skill span{top: 55px;left: 0;}
+.game_skill:hover span{display: inline-block;}
+.game_skill1{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill1 img{vertical-align: middle;margin: auto 5%;}
+.game_skill1 p{width: 90px;line-height: 72px;font-size: 18px;color: #0E9CF1;float: right;font-weight:900;text-indent: -7em;}
+.game_skill1 span{top: 55px;left: 0;}
+.game_skill1:hover span{display: inline-block;}
+.game_skill3{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill3 img{vertical-align: middle;margin: auto 5%;}
+.game_skill3 p{width: 90px;line-height: 72px;font-size: 18px;color: #ff3600;float: right;font-weight:900;text-indent: -7em;}
+.game_skill3 span{top: 55px;left: 0;}
+.game_skill3:hover span{display: inline-block;}
+.game_skill4{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill4 img{vertical-align: middle;margin: auto 5%;}
+.game_skill4 p{width: 90px;line-height: 72px;font-size: 18px;color: #b00ef1;float: right;font-weight:900;text-indent: -7em;}
+.game_skill4 span{top: 55px;left: 0;}
+.game_skill4:hover span{display: inline-block;}
+.game_skill5{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill5 img{vertical-align: middle;margin: auto 5%;}
+.game_skill5 p{width: 90px;line-height: 72px;font-size: 18px;color: #f10e3e;float: right;font-weight:900;text-indent: -7em;}
+.game_skill5 span{top: 55px;left: 0;}
+.game_skill5:hover span{display: inline-block;}
+.game_skill6{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill6 img{vertical-align: middle;margin: auto 5%;}
+.game_skill6 p{width: 90px;line-height: 72px;font-size: 18px;color: #e3a41b;float: right;font-weight:900;text-indent: -7em;}
+.game_skill6 span{top: 55px;left: 0;}
+.game_skill6:hover span{display: inline-block;}
+.game_skill7{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill7 img{vertical-align: middle;margin: auto 5%;}
+.game_skill7 p{width: 90px;line-height: 72px;font-size: 18px;color: #0E9CF1;float: right;font-weight:900;text-indent: -7em;}
+.game_skill7 span{top: 55px;left: 0;}
+.game_skill7:hover span{display: inline-block;}
+.game_skill8{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill8 img{vertical-align: middle;margin: auto 5%;}
+.game_skill8 p{width: 90px;line-height: 72px;font-size: 18px;color: #45e31b;float: right;font-weight:900;text-indent: -7em;}
+.game_skill8 span{top: 55px;left: 0;}
+.game_skill8:hover span{display: inline-block;}
+.game_skill9{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill9 img{vertical-align: middle;margin: auto 5%;}
+.game_skill9 p{width: 90px;line-height: 72px;font-size: 14px;color: #ff3600;float: right;font-weight:900;text-indent: -7em;}
+.game_skill9 span{top: 55px;left: 0;}
+.game_skill9:hover span{display: inline-block;}
+.game_skill10{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill10 img{vertical-align: middle;margin: auto 5%;}
+.game_skill10 p{width: 90px;line-height: 72px;font-size: 18px;color: #b00ef1;float: right;font-weight:900;text-indent: -7em;}
+.game_skill10 span{top: 55px;left: 0;}
+.game_skill10:hover span{display: inline-block;}
+.game_skill11{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill11 img{vertical-align: middle;margin: auto 5%;}
+.game_skill11 p{width: 90px;line-height: 72px;font-size: 18px;color: #f10e3e;float: right;font-weight:900;text-indent: -7em;}
+.game_skill11 span{top: 55px;left: 0;}
+.game_skill11:hover span{display: inline-block;}
+.game_skill12{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill12 img{vertical-align: middle;margin: auto 5%;}
+.game_skill12 p{width: 90px;line-height: 72px;font-size: 15px;color: #e3a41b;float: right;font-weight:900;text-indent: -7em;}
+.game_skill12 span{top: 55px;left: 0;}
+.game_skill12:hover span{display: inline-block;}
+.game_skill13{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill13 img{vertical-align: middle;margin: auto 5%;}
+.game_skill13 p{width: 90px;line-height: 72px;font-size: 18px;color: #0E9CF1;float: right;font-weight:900;text-indent: -7em;}
+.game_skill13 span{top: 55px;left: 0;}
+.game_skill13:hover span{display: inline-block;}
+.game_skill14{width: 100%;height: 67px;line-height: 60px;text-align: center; background-color: rgba(255,255,255,255.8);text-align: center;margin-top: 2px;cursor: pointer;}
+.game_skill14 img{vertical-align: middle;margin: auto 5%;}
+.game_skill14 p{width: 90px;line-height: 72px;font-size: 14px;color: #45e31b;float: right;font-weight:900;text-indent: -7em;}
+.game_skill14 span{top: 55px;left: 0;}
+.game_skill14:hover span{display: inline-block;}
+.game_price{width: 100%;height: 35px;text-align: center;}
+.game_price p{line-height: 35px;font-size: 18px;color: #FFFFFF;float: left;}
+.game_price button{width: 130px;height: 30px;border: 1px solid rgba(253,250,143,0.5);border-radius: 5px;box-shadow: inset 0 0 5px #FDFA8F;background-color: #ddd;font-size: 18px;color: #000000;margin-top: 3px;float: right;cursor: pointer;}
+.game_price button label{cursor: pointer;}
+.prompt{clear: both; font-size: 20px;color: #FDFA8F;padding:20px 0;line-height: 1.5;text-align: center;background-color: rgba(0,0,0,0.8);}
+
+.arrow-left,.arrow-right{width: 41px;height: 113px;position: absolute;z-index: 99;top: 100px;bottom: 0;margin:auto 0;}
+.arrow-left{left: 50px;}
+.arrow-right{right: 50px;}
+
+
+/*售完情况*/
+.sellout{position: fixed;left: 0;right: 0;top: 0; bottom: 0;background-color: rgba(0,0,0,0.8);z-index: 100;display: none;}
+.sellout>div{width: 500px;line-height: 1.5em;padding: 7vh 80px; font-size: 35px;font-weight: bold;border-radius: 10px; text-align: center;color: #fdfa8f; border: 3px solid #7f7e3f;position: absolute;left: 0;right: 0;top: 20vh; margin: auto;background-color: #000;}
+.sellout img{position: absolute;left: 0;right: 0;margin: auto;width: 150px;bottom: -100px;cursor: pointer;}
+
+
+.contract_confirm{font-size: 30px;line-height: 100vh;text-align: center;background-color: rgba(0,0,0,0.7);color: #f18900; position: fixed;top: 0;bottom: 0;left: 0;right: 0;display: none;z-index:99;}
+.activetimebeginobj{background: #f18900 !important;}
+
+
+/*英文版*/
+.game_prop .game_prop_span{
+	width: 185px;left: -185px;
+}

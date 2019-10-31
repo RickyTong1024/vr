@@ -1,0 +1,6 @@
+npm install node-schedule
+npm install node-fetch
+npm install http
+npm install url
+npm install querystring
+npm install mysql

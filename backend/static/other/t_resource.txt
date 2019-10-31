@@ -1,0 +1,4 @@
+﻿INT	STRING	STRING	STRING	STRING
+id	名字	名字代号	描述	描述代号
+1	钻石	t_resoures_name_1	金币不是万能的，没金币是玩玩不能的	t_resoures_desc_1
+2	好感	t_resoures_name_2	亮瞎双眼的水晶，散发着土豪的光芒	t_resoures_desc_2

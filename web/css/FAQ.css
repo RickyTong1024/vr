@@ -1,0 +1,41 @@
+body{
+	background-size: cover;
+}
+.fixed-header-on{
+	background: #5E5E5E;
+}
+ul{list-style: none;}
+.container{
+	padding-top: 10%;
+	padding-bottom: 10%;
+	
+}
+.faq h1{
+	color: #FFBA1E;
+	font-weight: normal;
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+.faq ul li{
+	background: rgba(0,0,0,0.7);
+	margin-bottom: 20px;
+}
+.faq ul li .title{
+	padding: 20px;
+	font-size: 22px;
+	cursor: pointer;
+}
+.faq ul li .content{
+	padding: 30px;
+	padding-top: 0;
+	font-size: 18px;
+	display: none;
+}
+.faq ul li .content span{
+	display: block;
+	text-indent:2em;
+	line-height: 2em;
+}
+#btn_prev,#btn_next{z-index:11111;position:absolute;display:block;width:73px!important;height:120px!important;top:50%;margin-top:-37px;}
+#btn_prev{background:url(../img/left.png) no-repeat left top;left:3%;}
+#btn_next{background:url(../img/right.png) no-repeat right top;right:3%;}

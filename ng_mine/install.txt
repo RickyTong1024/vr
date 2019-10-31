@@ -1,0 +1,7 @@
+﻿安装node
+npm install crypto-js --save
+npm install request --save
+npm install mongodb --save
+运行文件admin_run.js
+功能
+地址转hash addr2hash_r [用户地址]

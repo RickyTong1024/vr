@@ -1,0 +1,25 @@
+{% include "include.html" %}
+{% load bootstrap3 %}
+<body>
+	{% include "form.html" %}
+	<div>
+		<div>
+			<h1>删除礼包</h1>
+		</div>
+		<div class="well">
+			<form name="main" class="form-horizontal" action="/dlibao/" method="post">
+				{% csrf_token %}
+				{% bootstrap_form form %}
+				<div>
+					<input type="button" value="删除" onclick="mask();"/>
+				</div>
+			</form>
+            {% if form.suc %}
+                <script>
+                    alert("删除成功");
+                </script>
+            {% endif %}
+		</div>
+	</div>
+</body>
+</html>

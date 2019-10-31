@@ -1,0 +1,586 @@
+﻿INT	STRING	STRING	INT	INT	INT	INT	INT	STRING	STRING	INT	INT	STRING	STRING	STRING	INT	INT	INT		INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+id	name	代号	类型	类型2（1是IOS充值，2是限时，3是钻石换软妹币）	商品	是否新品	是否解锁	图标	res	价格	来源(1每日任务、4金币、5钻石)	参数1	参数2	参数3	类别_0（好感）	类别_1（饱腹）	类别_2（清洁）	类别_3（口渴值）	类别_4(使用次数道具，1使用，0不使用）	类别_5（使用次数）	钻石价格	同类型下标	审核隐藏	好感值开启	持续时间	商店列表（1常服，2运动装，3泳装，4睡衣，5头发，6头饰，7普通鞋子，8运动鞋，9眼镜）	播放动画	属性对应
+10017	蓝色制服	icon_clothes30	1				1	10023	body01_02	2199	0	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2199					1		
+10001	T恤热裤	icon_clothes01	1				1	10013	body14	2799	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799					2		
+10011	紧身皮衣	icon_clothes19	1				1	10011	body17	3299	1	"Start,ChangeCloth"			26						3299							
+10005	小鱼海棠*红	icon_clothes10	1				1	10008	body10	2399	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2399					1		
+10012	圣诞短裙	icon_clothes20	1				1	10014	body20	3299	1	"Start,ChangeCloth"			39000/39000						3299							
+10013	圣诞皮衣	icon_clothes21	1			0	1	10015	body19	3499	4	"Start,ChangeCloth"			39000/39000						3499							
+10015	红旗袍	icon_clothes23	1				1	10018	body09_02	3199	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199					1		
+10014	蛋糕裙	icon_clothes22	1				1	10017	body18	3499	4	"Start,ChangeCloth"			39000/39000						3499							
+20003	蓝色短裙	icon_clothes07	40				1	10019	body22	3499	1	"Start,ChangeCloth"			39000/39000						3499							
+10003	女仆装	icon_clothes03	1				1	10001	body06	3499	1	"Start,ChangeCloth"			39000/39000						3499							
+20007	褶边短裙	icon_clothes18	40				1	20020	body16	4999	4	"Start,ChangeCloth"			39000/39000						4999							
+20002	紫色比基尼	icon_clothes08	40			0	1	20001	body08	1999	1	"Start,ChangeCloth"			39000/39000						1999							
+10020	白色围裙	icon_clothes33	1			1	-1	10025	body21_02	3699	5	"Start,ChangeCloth"			39000/39000				239		3699							
+10008	兔女郎	icon_clothes05	1				1	10004	body02	3699	1	"Start,ChangeCloth"			39000/39000						3699							
+10010	空姐	icon_clothes17	1				1	10012	body15	3199	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199					1		
+10004	荷官制服	icon_clothes04	1				1	10006	body07	3299	1	"Start,ChangeCloth"			39000/39000						3299							
+10002	英伦学院	icon_clothes02	1				1	10002	body01	2799	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799					2		
+10006	小鱼海棠*蓝	icon_clothes15	1				1	10009	body10_02	2399	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2399					1		
+10009	蓝旗袍	icon_clothes16	1				1	10010	body09	3199	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199					1		
+20009	和风比基尼	icon_clothes27	40			1	1	20007	body24	2899	4	"Start,ChangeCloth"			39000/39000				239		2899							
+20010	碎片比基尼	icon_clothes28	40			1	1	20008	body25	3299	4	"Start,ChangeCloth"			39000/39000				239		3299							
+20011	金饰比基尼	icon_clothes29	40			1	1	20009	body26	3699	4	"Start,ChangeCloth"			39000/39000				239		3699							
+20012	红十字	icon_clothes34	40			1	-1	20010	body08_02	2299	4	"Start,ChangeCloth"			39000/39000						2299							
+20013	黑色比基尼	icon_clothes35	40			1	-1	20012	body08_03	2299	5	"Start,ChangeCloth"			39000/39000				239		2299							
+20014	星条旗	icon_clothes36	40			1	-1	20013	body08_04	2299	4	"Start,ChangeCloth"			39000/39000						2299							
+20015	蓝白比基尼	icon_clothes37	40			1	-1	20011	body08_05	2299	5	"Start,ChangeCloth"			39000/39000				239		2299							
+20016	黑色泳衣	icon_clothes38	40			1	-1	20014	body12_02	1999	4	"Start,ChangeCloth"			39000/39000						1999							
+20017	蓝白泳衣	icon_clothes39	40			1	-1	20015	body12_03	1999	4	"Start,ChangeCloth"			39000/39000						1999							
+20018	红蓝泳衣	icon_clothes40	40			1	-1	20016	body12_04	1999	4	"Start,ChangeCloth"			39000/39000						1999							
+10019	红色空姐	icon_clothes32	1				1	10024	body15_02	3599	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3599					1		
+1000004	格子短裙	icon_clothes102	1				1	10029	body29	2799	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799					1		
+1000009	针织学生服	icon_clothes106	1				1	10033	body33	2799	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799					1		
+1000012	牛仔裤	icon_clothes108	1				1	10036	body36	3399	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3399							
+1000024	和风风情	icon_clothes123	40				1	20006	body49	4999	4	"Start,ChangeCloth"			4999						4999							
+1000025	热情似火	icon_clothes122	40				1	20002	body50	3199	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199					2		
+1000022	蓝精灵	icon_clothes120	40				1	20017	body47	3499	1	"Start,ChangeCloth"			39000/39000						3499							
+1000023	粉色回忆	icon_clothes121	40				1	20018	body48	3499	1	"Start,ChangeCloth"			39000/39000						3499							
+10007	体操服	icon_clothes11	40				1	10007	body13	2799	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799					2		
+10018	红白体操	icon_clothes31	40				1	10026	body13_02	1799	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	1799					2		
+20001	短裙比基尼	icon_clothes09	40				1	20019	body03	3199	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199					2		
+20006	黑猫泳衣	icon_clothes14	40				1	20005	body11_02	3599	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3599					4		
+20004	死库水	icon_clothes12	40				1	20003	body12	2599	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2599					2		
+20005	白猫泳衣	icon_clothes13	40				1	20004	body11	3599	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3599					4		
+1000013	睡衣02	icon_clothes109	50				1	10037	body37	3399	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3399							
+1000010	睡衣	icon_clothes105	50				1	10032	body32	3399	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3399					4		
+1000011	背心	icon_clothes107	50				1	10035	body35	3399	5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3399							
+10031	战娘战斗服	icon_clothes119	1				1	10031	body31		5	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4899							
+1000015	长衫T恤	icon_clothes111	1				1	10039	body39	4099	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4099							
+1000016	长衫T恤02	icon_clothes112	1				1	10040	body40	4099	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4099							
+1000017	长衫T恤03	icon_clothes113	1				1	10041	body41	4099	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4099							
+1000018	长衫T恤04	icon_clothes114	1				1	10042	body42	4099	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4099							
+1000019	长衫T恤05	icon_clothes115	1				1	10043	body43	4099	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4099							
+1000020	长衫T恤06	icon_clothes116	1				1	10044	body44	4099	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4099							
+1000021	长衫T恤07	icon_clothes117	1				1	10045	body45	4099	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	4099							
+1000022	蓝精灵	icon_clothes120	40				1	20017	body47	3499	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3499							
+1000023	粉色回忆	icon_clothes121	40				1	20018	body48	3499	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3499							
+1000024	深蓝空姐服	icon_clothes122	1			1	1	20021	body15_03	3199	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199		1					
+1000025	湖蓝空姐服	icon_clothes123	1			1	1	20022	body15_04	3199	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199							
+1000026	金边空姐服	icon_clothes124	1			1	1	20023	body15_05	3199	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199		1					
+1000027	灰色空姐服	icon_clothes125	1			1	1	20024	body15_06	3199	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199							
+1000028	风情白领	icon_clothes126	1			1	1	20025	body07_02	3299	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3299							
+1000029	干练ol	icon_clothes127	1			1	1	20026	body07_03	3299	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3299		1					
+1000030	成熟ol	icon_clothes128	1			1	1	20027	body07_04	3299	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3299		1					
+1000031	复古学生服*灰	icon_clothes129	1			1	1	20028	body10_03	2399	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2399							
+1000032	梅花香	icon_clothes130	1			1	1	20029	body10_04	2399	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2399							
+1000033	深闺蜜秀	icon_clothes131	1			1	1	20030	body10_05	2399	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2399		1					
+1000034	水墨风情	icon_clothes132	1			1	1	20031	body10_06	2399	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2399		1					
+1000035	纯情少女	icon_clothes133	1			1	1	20032	body36_02	3399	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3399							
+1000036	热力四射	icon_clothes134	1			1	1	20033	body36_03	3399	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3399		1					
+1000037	大眼瞪瞪	icon_clothes135	1			1	1	20034	body36_04	3399	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3399							
+1000038	名门闺秀	icon_clothes136	1			1	1	20035	body09_03	3199	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199							
+1000039	婉约之美	icon_clothes137	1			1	1	20036	body09_04	3199	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	3199		1					
+1000040	女神联动T恤	icon_clothes138	1			1	-1	20037	body05_03	2799	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799		1					
+1000041	Rich Girl	icon_clothes139	1			1	1	20038	body05_04	2799	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799		1					
+1000042	简约条纹	icon_clothes140	1			1	1	20039	body05_05	2799	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799							
+1000043	Hey Boy	icon_clothes141	1			1	1	20040	body05_06	2799	1	"Start,ChangeCloth"			39000/39000	0	0	0	0	0	2799							
+30001	直发	icon_hair01	3				1	30005	hair01		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30009	双马尾	icon_hair08	3				1	30008	hair08		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30008	麻花辫	icon_hair09	3				1	30009	hair09		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30002	齐刘海马尾	icon_hair02	3				1	30002	hair05		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30003	长马尾	icon_hair03	3				1	30003	hair04		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30005	大波浪	icon_hair04	3				1	30004	hair06		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30004	波波头	icon_hair05	3				1	30001	hair03		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30007	短发	icon_hair06	3				1	30007	hair07		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30006	齐刘海长发	icon_hair07	3				1	30006	hair02		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30010	短碎发	icon_hair10	3				1	30010	hair10		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30011	双股麻花辫	icon_hair11	3				1	30011	hair11		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30012	丸子头	icon_hair12	3				1	30012	hair12		0	"Start,ChangeHair"			0	0	0	0	0	0	0					5		
+30013	少女双马尾	icon_hair13	3				1	30013	hair13		0	"Start,ChangeHair"			0	0	0	0	0	0	0							
+30014	长马尾02	icon_hair14	3				1	30014	hair14		0	"Start,ChangeHair"			0	0	0	0	0	0	0							
+50001	默认	icon_ACC00	5				1	50002	ACC00		0															6		
+50006	猫儿耳机	icon_ACC05	5				1	50007	ACC03	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50010	草帽	icon_ACC09	5				1	50010	ACC09	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50003	发箍	icon_ACC01	5				1	50003	ACC02	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50009	空姐帽	icon_ACC08	5			0	1	50009	ACC08	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50011	圣诞帽	icon_ACC10	5				1	50011	ACC10	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50004	口罩*萌	icon_ACC03	5				1	50008	ACC05	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50005	玫瑰	icon_ACC04	5				1	50004	ACC06	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50007	女仆头饰	icon_ACC06	5				1	50005	ACC04	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50002	兔耳朵	icon_ACC02	5			0	1	50001	ACC01	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50008	猫耳	icon_ACC07	5				1	50006	ACC07	2199	5	"Start,ChangeACC"			10000/10000	0	0	0	0	0	2199					6		
+50009	头巾	icon_ACC12	5				1	50013	ACC13		5	"Start,ChangeACC"			10000/10000	0	0	0	0	0						6		
+60001	光脚	icon_shoes00	6				1	60007	shoes00		0															7		
+60012	圣诞鞋	icon_shoes11	6			0	1	60014	shoes11	1999	1	"Start,ChangeShoes"			5	0	0	0	0	0	1999							
+60002	帆布鞋	icon_shoes01	6				1	60003	shoes02	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199					8		
+60017	布鞋拖	icon_shoes17	6				1	60019	shoes14	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199					7		
+60011	人字拖	icon_shoes10	6				1	60011	shoes10	1799	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	1799					7		
+60009	布鞋	icon_shoes09	6				1	60010	shoes08	1599	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	1599					7		
+60010	体操鞋	icon_shoes06	6				1	60009	shoes09	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199					8		
+60025	黑色高跟布鞋	icon_shoes23	6				-1	60022	shoes21	3999	4	"Start,ChangeShoes"			3999						3999							
+60003	红色皮鞋	icon_shoes02	6				1	60004	shoes05	1799	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	1799					7		
+600003	黄色皮鞋	icon_shoes22	6				1	60024	shoes20	1799	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	1799					7		
+600005	兔耳拖鞋	icon_shoes25	6				1	60027	shoes27	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199					7		
+60013	马丁靴	icon_shoes12	6				1	60012	shoes12	1999	1	"Start,ChangeShoes"			20						1999							
+60014	黑色鱼嘴鞋	icon_shoes13	6			0	1	60013	shoes13	1999	1	"Start,ChangeShoes"			23						1999							
+60015	红色鱼嘴鞋	icon_shoes14	6				1	60015	shoes13_02	1999	1	"Start,ChangeShoes"			8						1999							
+60016	蓝色鱼嘴鞋	icon_shoes15	6				1	60016	shoes13_03	1999	1	"Start,ChangeShoes"			18						1999							
+60004	高跟鞋	icon_shoes03	6				1	60002	shoes03	3999	4	"Start,ChangeShoes"			3999						3999							
+60005	松糕鞋	icon_shoes05	6			0	1	60005	shoes04	1999	1	"Start,ChangeShoes"			13						1999							
+60006	细高跟鞋	icon_shoes04	6			0	1	60006	shoes06	1999	1	"Start,ChangeShoes"			27						1999							
+60008	黑皮鞋	icon_shoes08	6				1	60008	shoes07	1999	1	"Start,ChangeShoes"			14						1999							
+600006	学生皮鞋	icon_shoes26	6				1	60028	shoes28	1799	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	1799					7		
+600007	塑胶拖鞋	icon_shoes27	6				1	60029	shoes29	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199							
+600008	独角兽拖鞋	icon_shoes28	6				1	60030	shoes30	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199							
+600009	小狗拖鞋	icon_shoes29	6				1	60031	shoes31	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199							
+600010	花蕊拖鞋	icon_shoes30	6				1	60032	shoes32	2199	5	"Start,ChangeShoes"			10000/10000	0	0	0	0	0	2199							
+70004	Nobody	icon_dance01	7				1	70004			0	"Start_DancingHall,Nobody"																
+70001	热舞	icon_dance02	7				1	70002			0	"Start_DancingHall,hotDance"											1					
+70002	劲舞	icon_dance03	7			0	1	70003			0	"Start_DancingHall,hotDance02"											1					
+70003	钢管舞	icon_dance04	7				1	70001			0	"Start_DancingHall,poleDancing"											1					
+70005	板凳舞	icon_dance05	7				1	70005			0	"Start_DancingHall,ChairDance"											1					
+70006	极乐净土	icon_dance06	7				1	70006				"Start_DancingHall,jilejingtu"											1					
+80000	100钻石	icon_coin01	8	2				90001				100	10	vgirl.6							0							
+80001	150钻石	icon_coin01	8	1				90001				150	6	vgirl.6							0							
+80002	750钻石	icon_coin02	8	1				90002				750	30	vgirl.30							12							
+80007	1500钻石	icon_coin12	8	1				90003				1500	60	vgirl.60							24							
+80003	2400钻石	icon_coin03	8	1				90003				2400	98	vgirl.98							36							
+80004	4950钻石	icon_coin04	8	1				90004				4950	198	vgirl.198							48							
+80005	8100钻石	icon_coin05	8	1				90005				8100	328	vgirl.328							60							
+80006	16200钻石	icon_coin06	8	1				90006				16200	648	vgirl.648							72							
+80010	600钻石	icon_coin07	8	2				90002				600	30															
+80011	1000软妹币	icon_coin08	8	3				80001				1000	60															
+80012	10000软妹币	icon_coin09	8	3				80004				10000	500															
+80013	50000软妹币	icon_coin10	8	3				80005				50000	2300															
+80014	100000软妹币	icon_coin11	8	3				80006				100000	4500															
+90000	摘下美瞳	icon_circle09	90	4	3		1	eye_mt00			0		Eye00															
+90001	丰胸剂	icon_item03	90	2	1			40003			5	"Start,ChangeChest"	1								348							
+90002	平胸剂	icon_item04	90	2	1			40004			5	"Start,ChangeChest"	-1								348							
+100001	黑色	icon_HairDye01	9				1	hair_rf_black			0	"speak_shop,Change_Haircolour"	"0,0,0"															
+100002	深蓝色	icon_HairDye02	9				1	hair_rf_blue01			0	"speak_shop,Change_Haircolour"	"0,2,255"															
+100003	皇家蓝	icon_HairDye03	9				1	hair_rf_blue02			0	"speak_shop,Change_Haircolour"	"0,107,255"															
+100004	琉璃色	icon_HairDye04	9				1	hair_rf_blue03			0	"speak_shop,Change_Haircolour"	"0,160,255"															
+100005	群青色	icon_HairDye05	9				1	hair_rf_blue04			0	"speak_shop,Change_Haircolour"	"109,194,255"															
+100006	青色	icon_HairDye06	9				1	hair_rf_blue05			0	"speak_shop,Change_Haircolour"	"0,255,255"															
+100007	鹅黄色	icon_HairDye07	9				1	hair_rf_gold01			0	"speak_shop,Change_Haircolour"	"250,252,142"															
+100008	金黄色	icon_HairDye08	9				1	hair_rf_gold02			0	"speak_shop,Change_Haircolour"	"255,216,0"															
+100009	芒果色	icon_HairDye09	9				1	hair_rf_gold03			0	"speak_shop,Change_Haircolour"	"246,152,2"															
+100010	驼绒色	icon_HairDye10	9				1	hair_rf_gold04			0	"speak_shop,Change_Haircolour"	"269,88,9"															
+100011	柠檬色	icon_HairDye11	9				1	hair_rf_gold05			0	"speak_shop,Change_Haircolour"	"255,255,36"															
+100012	深灰色	icon_HairDye12	9				1	hair_rf_gray01			0	"speak_shop,Change_Haircolour"	"39,39,39"															
+100013	灰色	icon_HairDye13	9				1	hair_rf_gray02			0	"speak_shop,Change_Haircolour"	"96,96,96"															
+100014	奶奶灰	icon_HairDye14	9				1	hair_rf_gray03			0	"speak_shop,Change_Haircolour"	"186,186,186"															
+100015	绿色	icon_HairDye15	9				1	hair_rf_green01			0	"speak_shop,Change_Haircolour"	"0,191,33"															
+100016	翠绿色	icon_HairDye16	9				1	hair_rf_green02			0	"speak_shop,Change_Haircolour"	"0,255,128"															
+100017	黄绿色	icon_HairDye17	9				1	hair_rf_green03			0	"speak_shop,Change_Haircolour"	"157,255,0"															
+100018	竹绿色	icon_HairDye18	9				1	hair_rf_green04			0	"speak_shop,Change_Haircolour"	"91,223,0"															
+100019	深绿色	icon_HairDye19	9				1	hair_rf_green05			0	"speak_shop,Change_Haircolour"	"0,92,8"															
+100020	靛蓝色	icon_HairDye20	9				1	hair_rf_purple01			0	"speak_shop,Change_Haircolour"	"97,3,250"															
+100021	洋红色	icon_HairDye21	9				1	hair_rf_purple02			0	"speak_shop,Change_Haircolour"	"244,1,151"															
+100022	紫罗兰	icon_HairDye22	9				1	hair_rf_purple03			0	"speak_shop,Change_Haircolour"	"198,4,249"															
+100023	粉红色	icon_HairDye23	9				1	hair_rf_purple04			0	"speak_shop,Change_Haircolour"	"251,39,255"															
+100024	淡粉色	icon_HairDye24	9				1	hair_rf_purple05			0	"speak_shop,Change_Haircolour"	"251,113,210"															
+100025	红色	icon_HairDye25	9				1	hair_rf_red01			0	"speak_shop,Change_Haircolour"	"255,0,0"															
+100026	深红色	icon_HairDye26	9				1	hair_rf_red02			0	"speak_shop,Change_Haircolour"	"199,0,0"															
+100027	褐色	icon_HairDye27	9				1	hair_rf_red03			0	"speak_shop,Change_Haircolour"	"88,0,0"															
+100028	棕色	icon_HairDye28	9				1	hair_rf_red04			0	"speak_shop,Change_Haircolour"	"233,38,0"															
+100029	橘红色	icon_HairDye29	9				1	hair_rf_red05			0	"speak_shop,Change_Haircolour"	"255,90,0"															
+100030	白色	icon_HairDye30	9				1	hair_rf_white			0	"speak_shop,Change_Haircolour"	"255,255,255"															
+110000	摘下眼镜	icon_glass09	10				1	50002	glass00		0	"speak_shop,Change_glass"									0					9		
+110001	太阳镜	icon_glass01	10				1	110001	glass01		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110002	复古镜	icon_glass02	10				1	110002	glass02		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110003	圆框镜	icon_glass03	10				1	110003	glass03		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110004	蝙蝠镜	icon_glass04	10				1	110004	glass04		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110005	三角太阳镜	icon_glass05	10				1	110005	glass05		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110006	墨镜	icon_glass06	10				1	110006	glass06		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110007	心心	icon_glass07	10				1	110007	glass07		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110008	星星	icon_glass08	10				1	110008	glass08		5	"speak_shop,Change_glass"			1500/1500	0	0	0	0	0	348					9		
+110010	眼罩	icon_glass10	10				1	110009	blinder		5															9		
+120000	Pose00	icon_ViewAction99	11				1	girl01_stand01			0	"CharacterEditor,girl01_stand01"																
+120001	Pose01	icon_ViewAction00	11				1	girl01_stand01_action01	viewaction00		0	"CharacterEditor,girl01_stand01_action01"																
+120002	Pose02	icon_ViewAction01	11				1	girl01_stand01_action02	viewaction01		0	"CharacterEditor,girl01_stand01_action02"																
+120003	Pose03	icon_ViewAction04	11				1	girl01_stand01_action03	viewaction04		0	"CharacterEditor,girl01_stand01_action03"																
+120004	Pose04	icon_ViewAction09	11				1	girl01_stand01_action04	viewaction09		0	"CharacterEditor,girl01_stand01_action04"																
+120005	Pose05	icon_ViewAction13	11				1	girl01_stand01_action05	viewaction13		0	"CharacterEditor,girl01_stand01_action05"																
+120007	Pose07	icon_ViewAction32	11				1	girl01_stand01_action07	viewaction32		0	"CharacterEditor,girl01_stand01_action07"																
+120010	Pose09	icon_ViewAction05	11				1	girl01_stand01_action10	viewaction05		0	"CharacterEditor,girl01_stand01_action10"																
+120011	Pose10	icon_ViewAction08	11				1	girl01_stand01_action11	viewaction08		0	"CharacterEditor,girl01_stand01_action11"																
+120012	Pose11	icon_ViewAction10	11				1	girl01_stand01_action12	viewaction10		0	"CharacterEditor,girl01_stand01_action12"																
+120013	Pose12	icon_ViewAction11	11				1	girl01_stand01_action13	viewaction11		0	"CharacterEditor,girl01_stand01_action13"																
+120014	Pose13	icon_ViewAction12	11				1	girl01_stand01_action14	viewaction12		0	"CharacterEditor,girl01_stand01_action14"																
+120015	Pose14	icon_ViewAction15	11				1	girl01_stand01_action15	viewaction15		0	"CharacterEditor,girl01_stand01_action15"																
+120016	Pose15	icon_ViewAction16	11				1	girl01_stand01_action16	viewaction16		0	"CharacterEditor,girl01_stand01_action16"																
+120017	Pose16	icon_ViewAction17	11				1	girl01_stand01_action17	viewaction17		0	"CharacterEditor,girl01_stand01_action17"																
+120018	Pose17	icon_ViewAction18	11				1	girl01_stand01_action18	viewaction18		0	"CharacterEditor,girl01_stand01_action18"																
+120019	Pose18	icon_ViewAction20	11				1	girl01_stand01_action19	viewaction20		0	"CharacterEditor,girl01_stand01_action19"																
+120020	Pose19	icon_ViewAction22	11				1	girl01_stand01_action20	viewaction22		0	"CharacterEditor,girl01_stand01_action20"																
+120022	Pose20	icon_ViewAction26	11				1	girl01_stand01_action22	viewaction26		0	"CharacterEditor,girl01_stand01_action22"																
+120024	Pose22	icon_ViewAction28	11				1	girl01_stand01_action24	viewaction28		0	"CharacterEditor,girl01_stand01_action24"																
+120026	Pose23	icon_ViewAction30	11				1	girl01_stand01_ask	viewaction30		0	"CharacterEditor,girl01_stand01_ask"																
+120027	Pose24	icon_ViewAction31	11				1	girl01_stand01_confused	viewaction31		0	"CharacterEditor,girl01_stand01_confused"																
+120029	Pose26	icon_ViewAction35	11				1	girl01_stand01_idle02	viewaction35		0	"CharacterEditor,girl01_stand01_idle02"																
+120030	Pose27	icon_ViewAction36	11				1	girl01_stand01_tiff	viewaction36		0	"CharacterEditor,girl01_stand01_tiff"																
+120031	Pose28	icon_ViewAction37	11				1	girl01_stand01_unbelievable	viewaction37		0	"CharacterEditor,girl01_stand01_unbelievable"																
+120032	Pose29	icon_ViewAction38	11				1	girl01_stand03_CatchFailure	viewaction38		0	"CharacterEditor,girl01_stand03_CatchFailure"																
+120033	Pose30	icon_ViewAction39	11				1	girl01_stand03_disappoint02	viewaction39		0	"CharacterEditor,girl01_stand03_disappoint02"																
+130000	表情00	icon_expression00	12					girl01_default	girl01_default	0	0	girl01_default									0							
+130001	表情01	icon_expression01	12					girl01_smile	girl01_smile	0	0	girl01_smile									0							
+130003	表情02	icon_expression02	12					girl01_amazed	girl01_amazed	0	0	girl01_amazed									0							
+130004	表情03	icon_expression03	12					girl01_angery	girl01_angery	0	0	girl01_angery									0							
+130005	表情04	icon_expression04	12					girl01_badsmile	girl01_badsmile	0	0	girl01_badsmile									0							
+130009	表情08	icon_expression08	12					girl01_coquetry	girl01_coquetry	0	0	girl01_coquetry									0							
+130012	表情11	icon_expression11	12					girl01_distressed	girl01_distressed	0	0	girl01_distressed									0							
+130013	表情12	icon_expression12	12					girl01_encourage	girl01_encourage	0	0	girl01_encourage									0							
+130014	表情13	icon_expression13	12					girl01_happy	girl01_happy	0	0	girl01_happy									0							
+130016	表情15	icon_expression15	12					girl01_impatient	girl01_impatient	0	0	girl01_impatient									0							
+130017	表情16	icon_expression16	12					girl01_injoy	girl01_injoy	0	0	girl01_injoy									0							
+130019	表情18	icon_expression18	12					girl01_proud	girl01_proud	0	0	girl01_proud									0							
+130020	表情19	icon_expression19	12					girl01_scare	girl01_scare	0	0	girl01_scare									0							
+130022	表情21	icon_expression21	12					girl01_silence	girl01_silence	0	0	girl01_silence									0							
+130024	表情24	icon_expression24	12					girl01_surprised	girl01_surprised	0	0	girl01_surprised									0							
+130025	表情25	icon_expression25	12					girl01_impotence	girl01_impotence	0	0	girl01_impotence																
+140001	客厅01	icon_Amb_Color01	13					skybox01		0	0	skybox01									0							
+140002	戈壁01	icon_Amb_Color02	13					skybox02		0	0	skybox02									0							
+140003	星光大道	icon_Amb_Color03	13					skybox03		0	0	skybox03									0							
+140004	公路	icon_Amb_Color04	13					skybox04		0	0	skybox04									0							
+140005	山崖	icon_Amb_Color05	13					skybox05		0	0	skybox05									0							
+140006	海岛	icon_Amb_Color06	13					skybox06		0	0	skybox06									0							
+140007	广场01	icon_Amb_Color07	13					skybox07		0	0	skybox07									0							
+140008	沙滩	icon_Amb_Color08	13					skybox08		0	0	skybox08									0							
+140009	小树林	icon_Amb_Color09	13					skybox09		0	0	skybox09									0							
+140010	雪地01	icon_Amb_Color10	13					skybox10		0	0	skybox10									0							
+140011	客厅02	icon_Amb_Color11	13					skybox11		0	0	skybox11									0							
+140012	公园	icon_Amb_Color12	13					skybox12		0	0	skybox12									0							
+140013	别墅	icon_Amb_Color13	13					skybox13		0	0	skybox13									0							
+140014	广场02	icon_Amb_Color14	13					skybox14		0	0	skybox14									0							
+140015	篷房	icon_Amb_Color15	13					skybox15				skybox15																
+140017	林间小路	icon_Amb_Color17	13					skybox17				skybox17																
+140018	田间	icon_Amb_Color18	13					skybox18				skybox18																
+140019	广场03	icon_Amb_Color19	13					skybox19				skybox19																
+140020	湖边	icon_Amb_Color20	13					skybox20				skybox20																
+140021	商场	icon_Amb_Color21	13					skybox21				skybox21																
+140022	戈壁02	icon_Amb_Color22	13					skybox22				skybox22																
+140023	雪地02	icon_Amb_Color23	13					skybox23				skybox23																
+140024	雪地03	icon_Amb_Color24	13					skybox24				skybox24																
+140025	滨江大道	icon_Amb_Color25	13					skybox25				skybox25																
+140027	古建筑	icon_Amb_Color17	13					skybox27				skybox27																
+140028	水池	icon_Amb_Color28	13					skybox28				skybox28																
+140029	岩洞	icon_Amb_Color29	13					skybox29				skybox29																
+102	钻石	label_money_02	99					90001																				
+150001	唇彩01	icon_lips00	15					icon_lips00	lips00		0											0						
+150002	唇彩02	icon_lips01	15					icon_lips01	lips01		0											1						
+150003	唇彩03	icon_lips02	15					icon_lips02	lips02		0											2						
+150004	唇彩04	icon_lips03	15					icon_lips03	lips03		0											3						
+150005	唇彩05	icon_lips04	15					icon_lips04	lips04		0											4						
+150006	唇彩06	icon_lips05	15					icon_lips05	lips05		0											5						
+150007	唇彩07	icon_lips06	15					icon_lips06	lips06		0											6						
+150009	唇彩08	icon_lips08	15					icon_lips08	lips08		0											7						
+150010	唇彩09	icon_lips09	15					icon_lips09	lips09		0											8						
+150011	唇彩10	icon_lips10	15					icon_lips10	lips10		0											9						
+150012	唇彩11	icon_lips11	15					icon_lips11	lips11		0											10						
+150013	唇彩12	icon_lips12	15					icon_lips12	lips12		0											11						
+160002	眉毛00	icon_eyebrow00	16					icon_eyebrow00	eyebrow00		0											1						
+160003	眉毛01	icon_eyebrow01	16					icon_eyebrow01	eyebrow01		0											2						
+160004	眉毛02	icon_eyebrow02	16					icon_eyebrow02	eyebrow02		0											3						
+160005	眉毛03	icon_eyebrow03	16					icon_eyebrow03	eyebrow03		0											4						
+160006	眉毛04	icon_eyebrow04	16					icon_eyebrow04	eyebrow04		0											5						
+160007	眉毛05	icon_eyebrow05	16					icon_eyebrow05	eyebrow05		0											6						
+160008	眉毛06	icon_eyebrow06	16					icon_eyebrow06	eyebrow06		0											7						
+160009	眉毛07	icon_eyebrow07	16					icon_eyebrow07	eyebrow07		0											8						
+160010	眉毛08	icon_eyebrow08	16					icon_eyebrow08	eyebrow08		0											9						
+160011	眉毛09	icon_eyebrow09	16					icon_eyebrow09	eyebrow09		0											10						
+160012	眉毛10	icon_eyebrow10	16					icon_eyebrow10	eyebrow10		0											11						
+160013	眉毛11	icon_eyebrow11	16					icon_eyebrow11	eyebrow11		0											12						
+160014	眉毛12	icon_eyebrow12	16					icon_eyebrow12	eyebrow12		0											13						
+160015	眉毛13	icon_eyebrow13	16					icon_eyebrow13	eyebrow13		0											14						
+160016	眉毛14	icon_eyebrow14	16					icon_eyebrow14	eyebrow14		0											15						
+160017	眉毛15	icon_eyebrow15	16					icon_eyebrow15	eyebrow15		0											16						
+160018	眉毛16	icon_eyebrow16	16					icon_eyebrow16	eyebrow16		0											17						
+160019	眉毛17	icon_eyebrow17	16					icon_eyebrow17	eyebrow17		0											18						
+160020	眉毛18	icon_eyebrow18	16					icon_eyebrow18	eyebrow18													19						
+170001	眼影01	icon_eyeShadow00	17					icon_eyeShadow00	eyeShadow00		0											0						
+170002	眼影02	icon_eyeShadow01	17					icon_eyeShadow01	eyeShadow01		0											1						
+170003	眼影03	icon_eyeShadow02	17					icon_eyeShadow02	eyeShadow02		0											2						
+170004	眼影04	icon_eyeShadow03	17					icon_eyeShadow03	eyeShadow03		0											3						
+170005	眼影05	icon_eyeShadow04	17					icon_eyeShadow04	eyeShadow04		0											4						
+170006	眼影06	icon_eyeShadow05	17					icon_eyeShadow05	eyeShadow05		0											5						
+170007	眼影07	icon_eyeShadow06	17					icon_eyeShadow06	eyeShadow06		0											6						
+170008	眼影08	icon_eyeShadow07	17					icon_eyeShadow07	eyeShadow07		0											7						
+170009	眼影09	icon_eyeShadow08	17					icon_eyeShadow08	eyeShadow08		0											8						
+170010	眼影10	icon_eyeShadow09	17					icon_eyeShadow09	eyeShadow09		0											9						
+170011	眼影11	icon_eyeShadow10	17					icon_eyeShadow10	eyeShadow10		0											10						
+170012	眼影12	icon_eyeShadow11	17					icon_eyeShadow11	eyeShadow11		0											11						
+170013	眼影13	icon_eyeShadow12	17					icon_eyeShadow12	eyeShadow12		0											12						
+170014	眼影14	icon_eyeShadow13	17					icon_eyeShadow13	eyeShadow13		0											13						
+170015	眼影15	icon_eyeShadow14	17					icon_eyeShadow14	eyeShadow14		0											14						
+180002	纯黑	icon_eye_mt01	18					icon_eye_mt01			0	"speak_shop,Change_meitong"	eye_mt01									1						
+180003	深邃蓝	icon_eye_mt02	18					icon_eye_mt02			0	"speak_shop,Change_meitong"	eye_mt02									2						
+180004	翡翠绿	icon_eye_mt03	18					icon_eye_mt03			0	"speak_shop,Change_meitong"	eye_mt03									3						
+180005	甜蜜粉	icon_eye_mt04	18					icon_eye_mt04			0	"speak_shop,Change_meitong"	eye_mt04									4						
+180006	金光黄	icon_eye_mt05	18					icon_eye_mt05			0	"speak_shop,Change_meitong"	eye_mt05									5						
+180007	湖水青	icon_eye_mt06	18					icon_eye_mt06			0	"speak_shop,Change_meitong"	eye_mt06									6						
+180008	神秘紫	icon_eye_mt07	18					icon_eye_mt07			0	"speak_shop,Change_meitong"	eye_mt07									7						
+180009	猫眼金	icon_eye_mt08	18					icon_eye_mt08			0	"speak_shop,Change_meitong"	eye_mt08									8						
+180010	猫眼绿	icon_eye_mt09	18					icon_eye_mt09			0	"speak_shop,Change_meitong"	eye_mt09									9						
+180011	猫眼蓝	icon_eye_mt10	18					icon_eye_mt10			0	"speak_shop,Change_meitong"	eye_mt10									10						
+180012	猫眼灰白	icon_eye_mt11	18					icon_eye_mt11			0	"speak_shop,Change_meitong"	eye_mt11									11						
+180013	灰色	icon_eye_mt12	18					icon_eye_mt12			0	"speak_shop,Change_meitong"	eye_mt12									12						
+180014	异色黄	icon_eye_mt13	18					icon_eye_mt13			0	"speak_shop,Change_meitong"	eye_mt13									13						
+180015	黑白	icon_eye_mt14	18					icon_eye_mt14			0	"speak_shop,Change_meitong"	eye_mt14									14						
+180016	湖泊	icon_eye_mt15	18					icon_eye_mt15			0	"speak_shop,Change_meitong"	eye_mt15									15						
+180017	光晕青	icon_eye_mt16	18					icon_eye_mt16			0	"speak_shop,Change_meitong"	eye_mt16															
+180018	光晕粉	icon_eye_mt17	18					icon_eye_mt17			0	"speak_shop,Change_meitong"	eye_mt17															
+180019	双重光晕	icon_eye_mt18	18					icon_eye_mt18			0	"speak_shop,Change_meitong"	eye_mt18															
+180020	琥珀	icon_eye_mt19	18					icon_eye_mt19			0	"speak_shop,Change_meitong"	eye_mt19															
+180021	写轮眼	icon_eye_mt20	18					icon_eye_mt20			0	"speak_shop,Change_meitong"	eye_mt20															
+180022	日食红	icon_eye_mt21	18					icon_eye_mt21			0	"speak_shop,Change_meitong"	eye_mt21															
+180023	日食青	icon_eye_mt22	18					icon_eye_mt22			0	"speak_shop,Change_meitong"	eye_mt22															
+180024	日食紫	icon_eye_mt23	18					icon_eye_mt23			0	"speak_shop,Change_meitong"	eye_mt23															
+180025	日食绿	icon_eye_mt24	18					icon_eye_mt24			0	"speak_shop,Change_meitong"	eye_mt24															
+190000	Pose01	icon_ViewAction00	19				1	viewaction00	viewaction00		0	"Start_ViewMode,ViewAction00"																
+190001	Pose02	icon_ViewAction01	19				1	viewaction01	viewaction01		0	"Start_ViewMode,ViewAction01"			200													
+190002	Pose03	icon_ViewAction04	19				1	viewaction04	viewaction04		0	"Start_ViewMode,ViewAction04"			400													
+190003	Pose04	icon_ViewAction09	19				1	viewaction09	viewaction09		0	"Start_ViewMode,ViewAction09"			600													
+190004	Pose05	icon_ViewAction13	19				1	viewaction13	viewaction13		0	"Start_ViewMode,ViewAction13"			800													
+190006	Pose07	icon_ViewAction32	19				1	viewaction32	viewaction32		0	"Start_ViewMode,ViewAction32"			1400													
+190008	Pose09	icon_ViewAction03	19				1	viewaction03	viewaction03		0	"Start_ViewMode,ViewAction03"			2200													
+190009	Pose10	icon_ViewAction05	19				1	viewaction05	viewaction05		0	"Start_ViewMode,ViewAction05"			2400													
+190010	Pose11	icon_ViewAction08	19				1	viewaction08	viewaction08		0	"Start_ViewMode,ViewAction08"			2800													
+190011	Pose12	icon_ViewAction10	19				1	viewaction10	viewaction10		0	"Start_ViewMode,ViewAction10"			3000													
+190012	Pose13	icon_ViewAction11	19				1	viewaction11	viewaction11		0	"Start_ViewMode,ViewAction11"			3400													
+190013	Pose14	icon_ViewAction12	19				1	viewaction12	viewaction12		0	"Start_ViewMode,ViewAction12"			4200													
+190014	Pose15	icon_ViewAction15	19				1	viewaction15	viewaction15		0	"Start_ViewMode,ViewAction15"			4400													
+190015	Pose16	icon_ViewAction16	19				1	viewaction16	viewaction16		0	"Start_ViewMode,ViewAction16"			4600													
+190016	Pose17	icon_ViewAction17	19				1	viewaction17	viewaction17		0	"Start_ViewMode,ViewAction17"			5000													
+190017	Pose18	icon_ViewAction18	19				1	viewaction18	viewaction18		0	"Start_ViewMode,ViewAction18"			5200													
+190018	Pose19	icon_ViewAction20	19				1	viewaction20	viewaction20		0	"Start_ViewMode,ViewAction20"			5400													
+190019	Pose20	icon_ViewAction22	19				1	viewaction22	viewaction22		0	"Start_ViewMode,ViewAction22"			5600													
+190021	Pose22	icon_ViewAction26	19				1	viewaction26	viewaction26		0	"Start_ViewMode,ViewAction26"			5800													
+190022	Pose23	icon_ViewAction27	19				1	viewaction27	viewaction27		0	"Start_ViewMode,ViewAction27"			199800													
+190023	Pose24	icon_ViewAction28	19				1	viewaction28	viewaction28		0	"Start_ViewMode,ViewAction28"			199800													
+190025	Pose26	icon_ViewAction30	19				1	viewaction30	viewaction30		0	"Start_ViewMode,ViewAction30"			199800													
+190026	Pose27	icon_ViewAction31	19				1	viewaction31	viewaction31		0	"Start_ViewMode,ViewAction31"			199800													
+190027	Pose28	icon_ViewAction33	19				1	viewaction33	viewaction33		0	"Start_ViewMode,ViewAction33"			199800													
+190028	Pose29	icon_ViewAction35	19				1	viewaction35	viewaction35		0	"Start_ViewMode,ViewAction35"			199800													
+190029	Pose30	icon_ViewAction36	19				1	viewaction36	viewaction36		0	"Start_ViewMode,ViewAction36"			199800													
+190030	Pose31	icon_ViewAction37	19				1	viewaction37	viewaction37		0	"Start_ViewMode,ViewAction37"			199800													
+190031	Pose32	icon_ViewAction38	19				1	viewaction38	viewaction38		0	"Start_ViewMode,ViewAction38"			199800													
+2000001	烤面包	icon_food01	20				1	200001			5								0	0	29							
+2000002	意大利面	icon_food02	20				1	200002			5								0	0	59							
+2000003	意式浓汤	icon_food03	20				1	200003			5								0	0	89							
+2000004	海鲜浓汤	icon_food04	20				1	200004			5								0	0	139							
+2000005	火鸡腿	icon_food05	20				1	200005			5								0	0	189							
+2000006	牛排	icon_food06	20				1	200006			5								0	0	289							
+2000007	鹅肝	icon_food07	20				1	200007			5								0	0	389							
+2000008	澳洲大龙虾	icon_food08	20				1	200008			5								0	0	499							
+2100001	柠檬水	icon_drink01	21				1	210001			5								0	0	29							
+2100002	可乐	icon_drink02	21				1	210002			5								0	0	59							
+2100003	咖啡	icon_drink03	21				1	210003			5								0	0	89							
+2100004	混合果汁	icon_drink04	21				1	210004			5								0	0	139							
+2100005	热带果饮	icon_drink05	21				1	210005			5								0	0	189							
+2100006	青柠果茶	icon_drink06	21				1	210006			5								0	0	289							
+2100007	风味果奶	icon_drink07	21				1	210007			5								0	0	389							
+2100008	拉菲	icon_drink08	21				1	210008			5								0	0	499							
+2200001	布丁	icon_Dessert01	22				1	2200001			5								0	0	29							
+2200002	提拉米苏	icon_Dessert03	22				1	2200002			5								0	0	59							
+2200003	蛋挞	icon_Dessert04	22				1	2200003			5								0	0	89							
+2200004	草莓大福	icon_Dessert05	22				1	2200004			5								0	0	139							
+2200005	草莓蛋糕	icon_Dessert06	22				1	2200005			5								0	0	189							
+2200006	雪媚娘	icon_Dessert09	22				1	2200006			5								0	0	289							
+2200007	马卡龙	icon_Dessert07	22				1	2200007			5								0	0	389							
+2200008	金箔冰淇淋	icon_Dessert08	22				1	2200008			5								0	0	499							
+2300001	一支玫瑰	icon_gift01	23				1	2300001			5	"Start_Hostel,GiveGift01"			200/500				0	0	60							10132
+2300002	巧克力	icon_gift02	23				1	2300002			5	"Start_Hostel,GiveGift03"			400/1000				0	0	120							10133
+2300003	一捧玫瑰	icon_gift03	23				1	2300003			5	"Start_Hostel,GiveGift02"			800/2000				0	0	240							10134
+2300004	口红	icon_gift04	23				1	2300004			5	"Start_Hostel,GiveGift05"			1600/4000				0	0	600							10135
+2300005	香水	icon_gift05	23				1	2300005			5	"Start_Hostel,GiveGift04"			3200/8000				0	0	960							10136
+2300006	金玫瑰	icon_gift06	23				1	2300006			5	"Start_Hostel,GiveGift06"			6400/16000				0	0	1440							10137
+2300007	LV包	icon_gift07	23				1	2300007			5	"Start_Hostel,GiveGift07"			12800/32000				0	0	1800							10138
+2300008	钻戒	icon_gift08	23				1	2300008			5	"Start_Hostel,GiveGift08"			25600/64000				0	0	3000							10139
+2400001	牙膏	icon_wash09	24				1	2400001			5								1	5	59							
+2400002	香皂	icon_wash01	24				1	2400002			5								1	5	99							
+2400003	洗面奶	icon_wash02	24				1	2400003			5								1	5	169							
+2400005	洗发露	icon_wash04	24				1	2400005			5								1	5	259							
+2400007	沐浴露	icon_wash06	24				1	2400007			5								1	5	299							
+2400008	润肤乳	icon_wash08	24				1	2400008			5								1	5	229							
+4000000	瑜伽球	icon_furniture00	30				1	4000000			5	"project_view,yujiaqiu_view"			0/0	0	0	0	0	0	7750			46			"project_view,yujiaqiu_view"	
+4000001	瑜伽垫	icon_furniture01	30				1	4000001			5	"project_view,yujiadian_view"			0/0	0	0	0	0	0	2300			9				
+4000002	小说书	icon_furniture02	30				1	4000002			5	"project_view,xiaoshuo_view"			0/0	0	0	0	0	0	700			6				
+4000003	编织入门书	icon_furniture03	30				1	4000003			5	"project_view,bianzhi1_view"			0/0	0	0	0	0	0	3100			26				
+4000004	漫画书	icon_furniture04	30				1	4000004			5	"project_view,manhua_view"			0/0	0	0	0	0	0	3100			25				
+4000005	运动杂志	icon_furniture05	30				1	4000005			5	"project_view,sports_view"			0/0	0	0	0	0	0	1650			12				
+4000009	游戏机	icon_furniture09	30				1	4000009			5				0/0	0	0	0	0	0	2350			20				
+4000010	小熊玩偶	icon_furniture10	30				1	4000010			5	"project_view,bear_view"			0/0	0	0	0	0	0	2500			22				
+4000011	兔子玩偶	icon_furniture11	30				1	4000011			5	"project_view,Rabbit_view"			0/0	0	0	0	0	0	2800			24				
+4000013	跑步机	icon_furniture13	30				1	4000013			5	"project_view,run_view"			0/0	0	0	0	0	0	1900			15				
+4000015	哑铃	icon_furniture15	30				1	4000015			5				0/0	0	0	0	0	0	1000			8	600			
+4000017	黄鸭玩具	icon_furniture17	30				1	4000017			5	"project_view,yazi_view"			0/0	0	0	0	0	0	4960			36				
+4000018	素描架子	icon_furniture18	30				1	4000018			5	"project_view,sumiaojia_view"			0/0	0	0	0	0	0	6000			33				
+4000019	粉色牙刷套装	icon_furniture100	30				1	4000019			5	"project_view,pinkset_view"			0/0	0	0	0	0	0	400			3				
+4000020	蓝色牙刷套装	icon_furniture101	33				1	4000020			5	"project_view,blueset_view"			0/0	0	0	0	0	0	400			1			"project_view,lanseyashua_view"	
+4000023	落地镜	icon_furniture23	30				1	4000023			5				0/0	0	0	0	0	0	850			7	600			
+4000025	摇滚CD	icon_furniture25	30				1	4000025			5	"project_view,yaogun_view"			0/0	0	0	0	0	0	2100			19				
+4000026	爵士CD	icon_furniture26	30				1	4000026			5	"project_view,jueshi_view"			0/0	0	0	0	0	0	3360			28				
+4000027	流行CD	icon_furniture27	30				1	4000027			5	"project_view,liuxing_view"			0/0	0	0	0	0	0	2100			18				
+4000028	风铃	icon_furniture28	30				1	4000028			5	"project_view,fengling_view"			0/0	0	0	0	0	0	3360			28				
+4000033	壁画	icon_furniture33	30				1	4000033			5	"project_view,bihua_view"			0/0	0	0	0	0	0	600			5				
+4000034	笔记本电脑	icon_furniture34	30				1	4000034			5	"project_view,bijiben_view"			0/0	0	0	0	0	0	1750			14	600			
+4000035	折纸图鉴	icon_furniture35	30				1	4000035			5	"project_view,zhezhi_view"			0/0	0	0	0	0	0	1200			10				
+4000036	甜品食谱	icon_furniture36	30				1	4000036			5	"project_view,tianpin_view"			0/0	0	0	0	0	0	6000			39				
+4000037	西餐食谱	icon_furniture37	30				1	4000037			5	"project_view,xican_view"			0/0	0	0	0	0	0	5450			38				
+4000038	植物图鉴	icon_furniture38	30				1	4000038			5	"project_view,zhiwu_view"			0/0	0	0	0	0	0	1900			15				
+4000039	风景图鉴	icon_furniture39	30				1	4000039			5	"project_view,fengjing_view"			0/0	0	0	0	0	0	1900			34				
+4000040	电玩杂志	icon_furniture40	30				1	4000040			5	"project_view,dianwan_view"			0/0	0	0	0	0	0	2350			20				
+4000042	珠宝手工图鉴	icon_furniture42	30				1	4000042			5	"project_view,zhubao_view"			0/0	0	0	0	0	0	9200			49				
+4000043	模玩杂志	icon_furniture43	30				1	4000043			5	"project_view,moxing_view"			0/0	0	0	0	0	0	2100			19				
+4000044	电视机	icon_furniture44	30				1	4000044			5	"project_view,tv_view"			0/0	0	0	0	0	0	1650			12				
+4000045	CD机	icon_furniture45	30				1	4000045			5	"project_view,CDJI_view"			0/0	0	0	0	0	0	2100			18				
+4000046	耳机	icon_furniture46	30				1	4000046	ACC30		5	"project_view,ERJI_view"			0/0	0	0	0	0	0	2100			18	600			
+4000047	飞镖	icon_furniture47	30				1	4000047			5				0/0	0	0	0	0	0	3710			30				
+4000048	飞镖盘	icon_furniture48	30				1	4000048			5	"project_view,feibiao_view"			0/0	0	0	0	0	0	3710			30				
+4000049	天文望远镜	icon_furniture49	30				1	4000049			5	"project_view,wangyuanjing_view"			0/0	0	0	0	0	0	1400			9				
+4000050	吉他	icon_furniture50	30				1	4000050			5	"project_view,jita_view"			0/0	0	0	0	0	0	4100			34				
+4000051	小提琴	icon_furniture51	30				1	4000051			5	"project_view,xiaotiqin_view"			0/0	0	0	0	0	0	4960			36				
+4000052	手机	icon_furniture52	30				1	4000052			5	"project_view,shouji_view"			0/0	0	0	0	0	0	4550			34				
+4000053	编织进阶书	icon_furniture53	30				1	4000053			5	"project_view,bianzhi2_view"			0/0	0	0	0	0	0	3710			28				
+4000054	编织大师书	icon_furniture54	30				1	4000054			5				0/0	0	0	0	0	0	5450			38				
+4000055	言情小说	icon_furniture55	30				1	4000055			5	"project_view,yanqing_view"			0/0	0	0	0	0	0	6600			42				
+4000057	呼啦圈	icon_furniture57	30				1	4000057			5	"project_view,hulaquan_view"			0/0	0	0	0	0	0	1760			14				
+4000058	跳绳	icon_furniture58	30				1	4000058			5	"project_view,shengzi_view"			0/0	0	0	0	0	0	2800			24				
+4000059	拖把	icon_furniture59	30				1	4000059			5	"project_view,tuoba_view"			0/0	0	0	0	0	0	450			1				
+4000060	吸尘器	icon_furniture60	30				1	4000060			5	"project_view,xichenqi_view"			0/0	0	0	0	0	0	500			4				
+5000001	粉色绒线球	icon_furniture62	31				1	5000001			5				0	0	0	0	0	0	800			26				
+5000002	毛线针	icon_furniture63	31				1	5000002			5				0	0	0	0	0	0	800			26				
+5000003	一盒颜料	icon_furniture64	31				1	5000003			5				0	0	0	0	0	0	1400			35				
+5000004	画板	icon_furniture65	31				1	5000004			5				0	0	0	0	0	0	1400			35				
+5000005	画笔	icon_furniture66	31				1	5000005			5				0	0	0	0	0	0	1400			35				
+5000006	钢笔	icon_furniture67	31				1	5000006			5				0	0	0	0	0	0	2400			45				
+5000007	信纸	icon_furniture68	31				1	5000007			5				0	0	0	0	0	0	2400			45				
+5000008	墨水	icon_furniture69	31				1	5000008			5				0	0	0	0	0	0	2400			45				
+5000009	蔬菜	icon_furniture70	31				1	5000009			5				0	0	0	0	0	0	950			32				
+5000010	肉	icon_furniture71	31				1	5000010			5				0	0	0	0	0	0	950			32				
+5000011	折纸	icon_furniture72	31				1	5000011			5				0	0	0	0	0	0	450			10				
+5000012	一包巧克力豆	icon_furniture73	31				1	5000012			5				0	0	0	0	0	0	1700			39				
+5000013	甜品模具	icon_furniture74	31				1	5000013			5				0	0	0	0	0	0	1700			39				
+5000014	剪刀	icon_furniture75	31				1	5000014			5				0	0	0	0	0	0	450			10				
+5000018	水果篮子	icon_furniture79	31				1	5000018			5				0	0	0	0	0	0	1950			41				
+5000019	一盒奶油	icon_furniture80	31				1	5000019			5				0	0	0	0	0	0	1950			41				
+5000020	一带面粉	icon_furniture81	31				1	5000020			5				0	0	0	0	0	0	1950			41				
+5000021	种子	icon_furniture82	31				1	5000021			5				0	0	0	0	0	0	550			17				
+5000022	花盆	icon_furniture83	31				1	5000022			5				0	0	0	0	0	0	550			17				
+5000023	冰块	icon_furniture84	31				1	5000023			5				0	0	0	0	0	0	1950			43				
+5000024	鸡蛋	icon_furniture85	31				1	5000024			5				0	0	0	0	0	0	1950			44				
+5000025	黄油	icon_furniture86	31				1	5000025			5				0	0	0	0	0	0	1950			44				
+5000026	小麦粉	icon_furniture87	31				1	5000026			5				0	0	0	0	0	0	1950			44				
+5000027	棉花	icon_furniture88	31				1	5000027			5				0	0	0	0	0	0	1650			43				
+5000028	布料	icon_furniture89	31				1	5000028			5				0	0	0	0	0	0	1650			43				
+5000029	米饭	icon_furniture90	31				1	5000029			5				0	0	0	0	0	0	950			32				
+5000030	宝石	icon_furniture91	31				1	5000030			5				0	0	0	0	0	0	3500			49				
+5000031	钢丝	icon_furniture92	31				1	5000031			5				0	0	0	0	0	0	3500			50				
+5000032	素描本	icon_furniture93	31				1	5000032			5				0	0	0	0	0	0	1150			33				
+5000033	铅笔	icon_furniture94	31				1	5000033			5				0	0	0	0	0	0	1150			33				
+5000034	打磨工具	icon_furniture95	31				1	5000034			5				0	0	0	0	0	0	3500			50				
+5000035	雕刻模具	icon_furniture96	31				1	5000035			5				0	0	0	0	0	0	3500			50				
+5000036	洒水壶	icon_furniture97	31				1	5000036			5				0	0	0	0	0	0	600			17				
+5000037	蜡烛	icon_furniture102	31				1	4000063			5				0	0	0	0	0	0	400			3				
+6000001	钻石	t_resoures_name_1	32					90001																				
+6000002	好感	t_resoures_name_2	32					ctg_ic_003																				
+7000001	唇彩01	showgirl_lips00	34					showgirl_lips00	lips00		0																	
+7000002	唇彩02	showgirl_lips01	34					showgirl_lips01	lips01		0																	
+7000003	唇彩03	showgirl_lips02	34					showgirl_lips02	lips02		0																	
+7000004	唇彩04	showgirl_lips03	34					showgirl_lips03	lips03		0																	
+7000005	唇彩05	showgirl_lips04	34					showgirl_lips04	lips04		0																	
+7000006	唇彩06	showgirl_lips05	34					showgirl_lips05	lips05		0																	
+7000007	唇彩07	showgirl_lips06	34					showgirl_lips06	lips06		0																	
+7000008	唇彩08	showgirl_lips07	34					showgirl_lips07	lips07		0																	
+7000009	唇彩09	showgirl_lips08	34					showgirl_lips08	lips08		0																	
+7000010	唇彩10	showgirl_lips09	34					showgirl_lips09	lips09		0																	
+7000011	唇彩11	showgirl_lips10	34					showgirl_lips10	lips10		0																	
+7000012	唇彩12	showgirl_lips11	34					showgirl_lips11	lips11		0																	
+7000013	唇彩13	showgirl_lips12	34					showgirl_lips12	lips12		0																	
+7000014	唇彩14	showgirl_lips13	34					showgirl_lips13	lips13		0																	
+7000015	唇彩15	showgirl_lips14	34					showgirl_lips14	lips14		0																	
+7000016	唇彩16	showgirl_lips15	34					showgirl_lips15	lips15		0																	
+7000017	唇彩17	showgirl_lips16	34					showgirl_lips16	lips16		0																	
+7000018	唇彩18	showgirl_lips17	34					showgirl_lips17	lips17		0																	
+7000019	唇彩19	showgirl_lips18	34					showgirl_lips18	lips18		0																	
+8000001	眉毛01	showgirl_eyebrow00	35					showgirl_eyebrow00	eyebrow00		0																	
+8000002	眉毛02	showgirl_eyebrow01	35					showgirl_eyebrow01	eyebrow01		0																	
+8000003	眉毛03	showgirl_eyebrow02	35					showgirl_eyebrow02	eyebrow02		0																	
+8000004	眉毛04	showgirl_eyebrow03	35					showgirl_eyebrow03	eyebrow03		0																	
+8000005	眉毛05	showgirl_eyebrow04	35					showgirl_eyebrow04	eyebrow04		0																	
+8000006	眉毛06	showgirl_eyebrow05	35					showgirl_eyebrow05	eyebrow05		0																	
+8000007	眉毛07	showgirl_eyebrow06	35					showgirl_eyebrow06	eyebrow06		0																	
+8000008	眉毛08	showgirl_eyebrow07	35					showgirl_eyebrow07	eyebrow07		0																	
+8000009	眉毛09	showgirl_eyebrow08	35					showgirl_eyebrow08	eyebrow08		0																	
+8000010	眉毛10	showgirl_eyebrow09	35					showgirl_eyebrow09	eyebrow09		0																	
+8000011	眉毛11	showgirl_eyebrow10	35					showgirl_eyebrow10	eyebrow10		0																	
+8000012	眉毛12	showgirl_eyebrow11	35					showgirl_eyebrow11	eyebrow11		0																	
+8000013	眉毛13	showgirl_eyebrow12	35					showgirl_eyebrow12	eyebrow12		0																	
+8000014	眉毛14	showgirl_eyebrow13	35					showgirl_eyebrow13	eyebrow13		0																	
+8000015	眉毛15	showgirl_eyebrow14	35					showgirl_eyebrow14	eyebrow14		0																	
+8000016	眉毛16	showgirl_eyebrow15	35					showgirl_eyebrow15	eyebrow15		0																	
+8000017	眉毛17	showgirl_eyebrow16	35					showgirl_eyebrow16	eyebrow16		0																	
+8000018	眉毛18	showgirl_eyebrow17	35					showgirl_eyebrow17	eyebrow17		0																	
+8000019	眉毛19	showgirl_eyebrow18	35					showgirl_eyebrow18	eyebrow18		0																	
+8000020	眉毛20	showgirl_eyebrow19	35					showgirl_eyebrow19	eyebrow19		0																	
+8000021	眉毛21	showgirl_eyebrow20	35					showgirl_eyebrow20	eyebrow20		0																	
+8000022	眉毛22	showgirl_eyebrow21	35					showgirl_eyebrow21	eyebrow21		0																	
+9000001	眼影01	showgirl_eyeShadow00	36					showgirl_eyeShadow00	eyeShadow00		0																	
+9000002	眼影02	showgirl_eyeShadow01	36					showgirl_eyeShadow01	eyeShadow01		0																	
+9000003	眼影03	showgirl_eyeShadow02	36					showgirl_eyeShadow02	eyeShadow02		0																	
+9000004	眼影04	showgirl_eyeShadow03	36					showgirl_eyeShadow03	eyeShadow03		0																	
+9000005	眼影05	showgirl_eyeShadow04	36					showgirl_eyeShadow04	eyeShadow04		0																	
+9000006	眼影06	showgirl_eyeShadow05	36					showgirl_eyeShadow05	eyeShadow05		0																	
+9000007	眼影07	showgirl_eyeShadow06	36					showgirl_eyeShadow06	eyeShadow06		0																	
+9000008	眼影08	showgirl_eyeShadow07	36					showgirl_eyeShadow07	eyeShadow07		0																	
+9000009	眼影09	showgirl_eyeShadow08	36					showgirl_eyeShadow08	eyeShadow08		0																	
+9000010	眼影10	showgirl_eyeShadow09	36					showgirl_eyeShadow09	eyeShadow09		0																	
+9000011	眼影11	showgirl_eyeShadow10	36					showgirl_eyeShadow10	eyeShadow10		0																	
+9000012	眼影12	showgirl_eyeShadow11	36					showgirl_eyeShadow11	eyeShadow11		0																	
+9000013	眼影13	showgirl_eyeShadow12	36					showgirl_eyeShadow12	eyeShadow12		0																	
+9000014	眼影14	showgirl_eyeShadow13	36					showgirl_eyeShadow13	eyeShadow13		0																	
+9000015	眼影15	showgirl_eyeShadow14	36					showgirl_eyeShadow14	eyeShadow14		0																	
+9000016	眼影16	showgirl_eyeShadow15	36					showgirl_eyeShadow15	eyeShadow15		0																	
+9000017	眼影17	showgirl_eyeShadow16	36					showgirl_eyeShadow16	eyeShadow16		0																	
+9000018	眼影18	showgirl_eyeShadow17	36					showgirl_eyeShadow17	eyeShadow17		0																	
+9000019	摘下美瞳	icon_circle09	37					eye_mt00					Eye00															
+10000001	翠绿	showgirl_eye01	37					showgirl_eye01			0	"speak_shop,Change_meitong"	eye_mt09															
+10000002	青绿	showgirl_eye02	37					showgirl_eye02			0	"speak_shop,Change_meitong"	eye_mt10															
+10000003	深紫	showgirl_eye03	37					showgirl_eye03			0	"speak_shop,Change_meitong"	eye_mt11															
+10000004	猫眼	showgirl_eye04	37					showgirl_eye04			0	"speak_shop,Change_meitong"	eye_mt01															
+10000005	璀璨	showgirl_eye05	37					showgirl_eye05			0	"speak_shop,Change_meitong"	eye_mt02															
+10000006	灰白	showgirl_eye06	37					showgirl_eye06			0	"speak_shop,Change_meitong"	eye_mt03															
+10000007	春之色	showgirl_eye07	37					showgirl_eye07			0	"speak_shop,Change_meitong"	eye_mt04															
+10000008	魔术片	showgirl_eye08	37					showgirl_eye08			0	"speak_shop,Change_meitong"	eye_mt05															
+10000009	幻影	showgirl_eye09	37					showgirl_eye09			0	"speak_shop,Change_meitong"	eye_mt06															
+10000010	甜蜜爱恋	showgirl_eye10	37					showgirl_eye10			0	"speak_shop,Change_meitong"	eye_mt07															
+10000011	水滴	showgirl_eye11	37					showgirl_eye11			0	"speak_shop,Change_meitong"	eye_mt08															
+10000012	纯黑	showgirl_eye12	37					showgirl_eye12			0	"speak_shop,Change_meitong"	Eye01															
+10000013	湖泊	showgirl_eye13	37					showgirl_eye13			0	"speak_shop,Change_meitong"	Eye02															
+10000014	白雪	showgirl_eye14	37					showgirl_eye14			0	"speak_shop,Change_meitong"	Eye03															
+10000015	琥珀	showgirl_eye15	37					showgirl_eye15			0	"speak_shop,Change_meitong"	Eye04															
+11000001	黑色	icon_HairDye01	38	3	2			hair_rf_black			5	"speak_shop,Change_Haircolour"	"0,0,0"															
+11000002	深蓝色	icon_HairDye02	38	3	2			hair_rf_blue01			5	"speak_shop,Change_Haircolour"	"0,2,255"															
+11000003	皇家蓝	icon_HairDye03	38	3	2			hair_rf_blue02			5	"speak_shop,Change_Haircolour"	"0,107,255"															
+11000004	琉璃色	icon_HairDye04	38	3	2			hair_rf_blue03			5	"speak_shop,Change_Haircolour"	"0,160,255"															
+11000005	群青色	icon_HairDye05	38	3	2			hair_rf_blue04			5	"speak_shop,Change_Haircolour"	"109,194,255"															
+11000006	青色	icon_HairDye06	38	3	2			hair_rf_blue05			5	"speak_shop,Change_Haircolour"	"0,255,255"															
+11000007	鹅黄色	icon_HairDye07	38	3	2			hair_rf_gold01			5	"speak_shop,Change_Haircolour"	"250,252,142"															
+11000008	金黄色	icon_HairDye08	38	3	2			hair_rf_gold02			5	"speak_shop,Change_Haircolour"	"255,216,0"															
+11000009	芒果色	icon_HairDye09	38	3	2			hair_rf_gold03			5	"speak_shop,Change_Haircolour"	"246,152,2"															
+11000010	驼绒色	icon_HairDye10	38	3	2			hair_rf_gold04			5	"speak_shop,Change_Haircolour"	"269,88,9"															
+11000011	柠檬色	icon_HairDye11	38	3	2			hair_rf_gold05			5	"speak_shop,Change_Haircolour"	"255,255,36"															
+11000012	深灰色	icon_HairDye12	38	3	2			hair_rf_gray01			5	"speak_shop,Change_Haircolour"	"39,39,39"															
+11000013	灰色	icon_HairDye13	38	3	2			hair_rf_gray02			5	"speak_shop,Change_Haircolour"	"96,96,96"															
+11000014	奶奶灰	icon_HairDye14	38	3	2			hair_rf_gray03			5	"speak_shop,Change_Haircolour"	"186,186,186"															
+11000015	绿色	icon_HairDye15	38	3	2			hair_rf_green01			5	"speak_shop,Change_Haircolour"	"0,191,33"															
+11000016	翠绿色	icon_HairDye16	38	3	2			hair_rf_green02			5	"speak_shop,Change_Haircolour"	"0,255,128"															
+11000017	黄绿色	icon_HairDye17	38	3	2			hair_rf_green03			5	"speak_shop,Change_Haircolour"	"157,255,0"															
+11000018	竹绿色	icon_HairDye18	38	3	2			hair_rf_green04			5	"speak_shop,Change_Haircolour"	"91,223,0"															
+11000019	深绿色	icon_HairDye19	38	3	2			hair_rf_green05			5	"speak_shop,Change_Haircolour"	"0,92,8"															
+11000020	靛蓝色	icon_HairDye20	38	3	2			hair_rf_purple01			5	"speak_shop,Change_Haircolour"	"97,3,250"															
+11000021	洋红色	icon_HairDye21	38	3	2			hair_rf_purple02			5	"speak_shop,Change_Haircolour"	"244,1,151"															
+11000022	紫罗兰	icon_HairDye22	38	3	2			hair_rf_purple03			5	"speak_shop,Change_Haircolour"	"198,4,249"															
+11000023	粉红色	icon_HairDye23	38	3	2			hair_rf_purple04			5	"speak_shop,Change_Haircolour"	"251,39,255"															
+11000024	淡粉色	icon_HairDye24	38	3	2			hair_rf_purple05			5	"speak_shop,Change_Haircolour"	"251,113,210"															
+11000025	红色	icon_HairDye25	38	3	2			hair_rf_red01			5	"speak_shop,Change_Haircolour"	"255,0,0"															
+11000026	深红色	icon_HairDye26	38	3	2			hair_rf_red02			5	"speak_shop,Change_Haircolour"	"199,0,0"															
+11000027	褐色	icon_HairDye27	38	3	2			hair_rf_red03			5	"speak_shop,Change_Haircolour"	"88,0,0"															
+11000028	棕色	icon_HairDye28	38	3	2			hair_rf_red04			5	"speak_shop,Change_Haircolour"	"233,38,0"															
+11000029	橘红色	icon_HairDye29	38	3	2			hair_rf_red05			5	"speak_shop,Change_Haircolour"	"255,90,0"															
+11000030	白色	icon_HairDye30	38	3	2			hair_rf_white			5	"speak_shop,Change_Haircolour"	"255,255,255"															
+6000001	钻石	t_resoures_name_1	32					90001																				
+6000002	好感	t_resoures_name_2	32					ctg_ic_003																				

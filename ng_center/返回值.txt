@@ -1,0 +1,35 @@
+公共返回
+1 参数错误
+2 登录过期
+
+user_view
+-1 用户不存在
+refund
+-1 用户不存在
+-2 fish不足
+mine
+-1 captcha过期
+-2 captcha输入错误
+mine_view
+-1 用户不在挖矿列表里
+dress_view
+-1 dress_id不存在
+auction_view
+-1 auction_id不存在
+auction_list
+-1 sort类型不存在
+auction_start
+-1 dress_id不存在
+-2 用户不存在
+-3 价格错误
+auction_cancel
+-1 dress_id不存在
+-2 用户不存在
+auction_buy
+-1 dress_id不存在
+-2 用户不存在
+-3 不能购买自己的商品
+-4 fish不足
+auction_follow
+-1 auction_id不存在
+-2 用户不存在

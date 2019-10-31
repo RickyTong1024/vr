@@ -1,0 +1,78 @@
+{% include "include.html" %}
+{% load bootstrap3 %}
+<body>
+	<script src="/static/js/mail.js?4" type="text/javascript"></script>
+	{% include "form.html" %}
+	<div>
+		<div>
+			<h1>创建礼包</h1>
+		</div>
+		<div class="well">
+			<form name="main" class="form-horizontal" action="/clibao/" method="post">
+				{% csrf_token %}
+				{% bootstrap_form form %}
+                <div class="control-group required">
+					<label class="control-label">奖励1</label>
+                    <div class="controls">
+                        <select id="id_reward1_1" name="reward1_1">
+                            <option value="0">无</option>
+                            <option value="1">资源</option>
+                            <option value="2">物品</option>
+                        </select>
+                        <select id="id_reward1_2" name="reward1_2">
+                        </select>
+                        <input id="id_reward1_3" name="reward1_3" type="text"/>
+                    </div>
+				</div>
+                <div class="control-group required">
+					<label class="control-label">奖励2</label>
+                    <div class="controls">
+                        <select id="id_reward2_1" name="reward2_1">
+                            <option value="0">无</option>
+                            <option value="1">资源</option>
+                            <option value="2">物品</option>
+                        </select>
+                        <select id="id_reward2_2" name="reward2_2">
+                        </select>
+                        <input id="id_reward2_3" name="reward2_3" type="text"/>
+                    </div>
+				</div>
+                <div class="control-group required">
+					<label class="control-label">奖励3</label>
+                    <div class="controls">
+                        <select id="id_reward3_1" name="reward3_1">
+                            <option value="0">无</option>
+                            <option value="1">资源</option>
+                            <option value="2">物品</option>
+                        </select>
+                        <select id="id_reward3_2" name="reward3_2">
+                        </select>
+                        <input id="id_reward3_3" name="reward3_3" type="text"/>
+                    </div>
+				</div>
+				<div>
+					<input type="button" value="创建" onclick="mask();"/>
+                    <script type="text/javascript">
+                        function download() {
+                            var ss = '{{ form.type }}';
+                            if (ss == '')
+                            {
+                                alert('尚未生成');
+                                return;
+                            }
+                            var s = '/static/libao/' + ss + '.txt';
+                            window.open(s);
+                        }
+                    </script>
+                    <input type="button" value="导出" onclick="download();"/>
+				</div>
+                {% if form.suc %}
+                <script>
+                    alert("创建成功");
+                </script>
+                {% endif %}
+			</form>
+		</div>
+	</div>
+</body>
+</html>

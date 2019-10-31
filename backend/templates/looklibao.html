@@ -1,0 +1,65 @@
+{% include "include.html" %}
+{% load bootstrap3 %}
+<body>
+    <script src="/static/js/jqPaginator.js" type="text/javascript"></script>
+    <script src="/static/js/libao.js?4" type="text/javascript"></script>
+    {% include "form.html" %}
+	<div>
+		<div>
+			<h1>查看礼包</h1>
+		</div>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>类型</th>
+                    <th>描述</th>
+                    <th>剩余数量</th>
+                    <th>是否是共享礼包</th>
+                    <th>内容</th>
+                    <th>导出</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for libao in items.libaos %}
+			<tr>
+				<td>{{ libao.code }}</td>
+				<td>{{ libao.name }}</td>
+				<td>{{ libao.num }}/{{ libao.max_num }}</td>
+				{% if libao.gongxiang == 1 %}
+				<td>是</td>
+				{% else %}
+				<td>否</td>
+				{% endif %}
+				<td name ="libao_reward">{{ libao.reward }}</td>
+				<td><a onclick='open_url("/static/libao/{{ libao.code }}.txt");'herf="#">导出</a></td>
+			</tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        <ul class="pagination" id="pagination1"></ul>
+        <script type="text/javascript">
+            $.jqPaginator('#pagination1', {
+                totalPages: {{ items.total }},
+                visiblePages: 10,
+                currentPage: {{ items.index }},
+                first: '<li class="first"><a href="javascript:;">首页</a></li>',
+                prev: '<li class="prev"><a href="javascript:;">上一页</a></li>',
+                next: '<li class="next"><a href="javascript:;">下一页</a></li>',
+                last: '<li class="last"><a href="javascript:;">末页</a></li>',
+                page: '<li class="page"><a href="javascript:;">@@page@@</a></li>',
+                onPageChange: function (num, type) {
+                    if (type != "init")
+                    {
+                        window.location.href="/manage/looklibao?index=" + num;
+                    }
+                }
+            });
+
+            function open_url(url){
+                var orgtreewin = window.open(url,""); 
+                orgtreewin.focus();
+            }
+        </script>
+	</div>
+</body>
+</html>
